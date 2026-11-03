@@ -84,3 +84,7 @@ list is `sources/books-and-papers.md`.
 ## Versions
 
 See `RELEASES.md`.
+
+## Licence
+
+MIT, see `LICENSE`.

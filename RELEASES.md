@@ -4,6 +4,10 @@ Semantic versions. A change to the six steps, the gate or the output block is mi
 major; a new playbook or rule is minor; wording and fixes are patch. Every release runs
 `python3 scripts/check_skill.py` clean and gets a git tag `vX.Y.Z`.
 
+## 1.0.1 (2026-11-03)
+
+- MIT licence added; the repository is public.
+
 ## 1.0.0 (2026-11-03)
 
 First release.

@@ -5,7 +5,7 @@ description: Turns a request into a deeper version of itself, not a bigger one, 
 
 # kwx-deepen
 
-Version 1.0.0. Changes are listed in `RELEASES.md`.
+Version 1.0.1. Changes are listed in `RELEASES.md`.
 
 A request is usually a summary of what someone wants. An expert hears the same words and
 does something different: they find the real goal, start from the primary record instead
